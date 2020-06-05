@@ -1,6 +1,6 @@
 let styles = ["Джаз", "Блюз"];
 
-styles.push("Рок-н-рол");
+styles.push("Рок");
 
 styles[Math.floor((styles.length - 1) / 2)] = "Классика";
 
